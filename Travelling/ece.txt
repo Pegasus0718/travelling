@@ -1,0 +1,8 @@
+representation of sinusoidal wavefrom`
+peak and rms value.
+real power .
+reactive power.
+apparent power.
+power factor.
+analysis of single phase ac circuit containing r,l&c.
+
